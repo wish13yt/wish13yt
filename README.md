@@ -5,6 +5,8 @@ I currently know:
 - HTML
 - Batch
 --------------------
+[CENTER][URL='https://tag.rc24.xyz/user/1073962008413749298'][IMG]https://tag.rc24.xyz/1073962008413749298/tag.png[/IMG][/URL][/CENTER]
+------------------------------------------------------------------------
 Wanna support me?
 Donate via Ko-Fi by clicking this link: https://ko-fi.com/wishcodes!
 ----------------------------------------------------------------------
