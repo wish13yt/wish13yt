@@ -11,7 +11,7 @@ Donate via Ko-Fi by clicking this link: https://ko-fi.com/wishcodes!
 Contact me on 
 -------------------------------------------------------------------------
 - Twitter @Wish13_YT
-- wish@programmer.net
-- wish@escargot.chat
+- wish@programmer.net (This is an email)
+- wish@escargot.chat (This requires https://www.escargot.chat)
 -------------------------------------------------------------------------
 [![Wish13yt's GitHub stats](https://github-readme-stats.vercel.app/api?username=wish13yt)](https://github.com/anuraghazra/github-readme-stats)
