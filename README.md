@@ -6,10 +6,9 @@ I currently know:
 - Batch
 --------------------
 Wanna support me?
-----------------------------------------------------------------------
 Donate via Ko-Fi by clicking this link: https://ko-fi.com/wishcodes!
+----------------------------------------------------------------------
 Contact me on 
--------------------------------------------------------------------------
 - Twitter @Wish13_YT
 - wish@programmer.net (This is an email)
 - wish@escargot.chat (This requires https://www.escargot.chat)
