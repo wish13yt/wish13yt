@@ -1,4 +1,4 @@
-## Hi!
+Hi!
 I'm Wish. You might know me as Wish13, Wish13_YT, or wish_yt!
 I currently know:
 --------------------
