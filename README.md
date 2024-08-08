@@ -6,7 +6,6 @@ I currently know:
 - Batch
 --------------------
 <a href="https://tag.rc24.xyz/user/1073962008413749298"><img src="https://tag.rc24.xyz/1073962008413749298/tag.png" alt="RiiTag" /></a>
-<iframe src="/badges/colorful?color=FF0000&user=Wish" style="width:176px;height:193px;border:0;"></iframe>
 ------------------------------------------------------------------------
 Wanna support me?
 Donate via Ko-Fi by clicking this link: https://ko-fi.com/wishcodes!
