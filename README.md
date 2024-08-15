@@ -2,8 +2,7 @@ Hi!
 I'm Wish. You might know me as Wish13, Wish13_YT, or wish_yt!
 I currently know:
 --------------------
-- HTML
-- Batch
+[![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev) and Batch!
 --------------------
 <a href="https://tag.rc24.xyz/user/1073962008413749298"><img src="https://tag.rc24.xyz/1073962008413749298/tag.png" alt="RiiTag" /></a>
 ------------------------------------------------------------------------
