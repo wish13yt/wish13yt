@@ -1,0 +1,72 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/wish13yt/wishdog.link/commit/a2f795a2d634ba42354288df28d8a5cf3f8d272f\"><strong>a</strong>2f795a2d634ba42354288df28d8a5cf3f8d272f</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "ab-commit",
+    "tier": 2,
+    "desc": "One of my commit sha starts with \"ab\".",
+    "body": "- <a href=\"https://github.com/wish13yt/wishdog.link/commit/ab96ef0f4213fac075a97b6ed250355cfe7bd649\"><strong>ab</strong>96ef0f4213fac075a97b6ed250355cfe7bd649</a>",
+    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
+  },
+  {
+    "id": "epic-commit",
+    "tier": 0,
+    "desc": "I made an epic commit with a message over 500 chars.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/5quirre1/Freakybob.site/commit/fccafa318ec2d5a5d696a4777acc69eda7581576\">fccafa3</a>\n- <a href=\"https://github.com/5quirre1/Freakybob.site/commit/bafa89d21717f94aca7d9442cd0cb246923ff677\">bafa89d</a>",
+    "image": "https://my-badges.github.io/my-badges/epic-commit.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"update\".",
+    "body": "My favorite commit message words are:\n\n1. update (used 412 times)\n2. index.html (used 300 times)\n3. modified: (used 189 times)\n4. readme.md (used 106 times)\n5. create (used 92 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "fix-2",
+    "tier": 1,
+    "desc": "I did 2 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/5quirre1/Freakybob.site/commit/d806797622ef4f6109977b5333cfd69b7047353e\">d806797</a>: fix more grammar 🔥\n- <a href=\"https://github.com/5quirre1/Freakybob.site/commit/00fc57510bc70c3b6a49220f320056c5602f3e10\">00fc575</a>: Fix freaky grammar",
+    "image": "https://my-badges.github.io/my-badges/fix-2.png"
+  },
+  {
+    "id": "mass-delete-commit",
+    "tier": 1,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/wish13yt/docs.beakerbrowser.com/commit/a21ebb3b8c4aa9d0510433b454fde20d9d5f7258\">a21ebb3</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
+  },
+  {
+    "id": "mass-delete-commit-10k",
+    "tier": 2,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/wish13yt/docs.beakerbrowser.com/commit/a21ebb3b8c4aa9d0510433b454fde20d9d5f7258\">a21ebb3</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
+  },
+  {
+    "id": "polite-coder",
+    "tier": 0,
+    "desc": "I am a polite coder.",
+    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/PretendoNetwork/juxtaposition-ui/issues/81\">#81</a>: [Feature]: Search users/communities",
+    "image": "https://my-badges.github.io/my-badges/polite-coder.png"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/wish13yt/wish13yt/commit/ab7fdedbb6fd19e6c17fe756dded7c09470fa72d\">ab7fded</a>\n- <a href=\"https://github.com/wish13yt/wish13yt/commit/af288b36df7c5b5c06a543fbb44889ad139be10a\">af288b3</a>\n- <a href=\"https://github.com/wish13yt/DoodlePinBob.github.io/commit/bc70b32dd9564f9680d1b90d94668136088c6745\">bc70b32</a>\n- <a href=\"https://github.com/wish13yt/DoodlePinBob.github.io/commit/ad571542909ed153d6d57b812039fbd02b9c66e3\">ad57154</a>\n- <a href=\"https://github.com/wish13yt/pikivice/commit/74ddb8e2203c500af0369bb323f43be777232600\">74ddb8e</a>\n- <a href=\"https://github.com/wish13yt/pikivice/commit/67134cbaf6cd66308a8aee8f970a639e956bf416\">67134cb</a>",
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  },
+  {
+    "id": "midnight-commits",
+    "tier": 0,
+    "desc": "I commit at midnight.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/wish13yt/pikivice/commit/b1eb1f165909122b5ae55825b0d14aa98292c13e\">b1eb1f1</a>\n- <a href=\"https://github.com/wish13yt/pikivice/commit/3cd2d72cbfa01402b58173a01cc57d793a3db2fb\">3cd2d72</a>\n- <a href=\"https://github.com/wish13yt/cool-pikidiary/commit/32335e421aa68ec3d3b043cbd95e6b6ec228cc89\">32335e4</a>\n- <a href=\"https://github.com/wish13yt/cool-pikidiary/commit/0551711f650445dcb93327b0978ae575c0e62186\">0551711</a>\n- <a href=\"https://github.com/wish13yt/cool-pikidiary/commit/1c42757e0c00ec4bdf9dfc4393f793bbc1aaf1d5\">1c42757</a>\n- <a href=\"https://github.com/wish13yt/THEFUTURE/commit/d2123e7afe0ee5d5e6cd71b0547cface5832c2e1\">d2123e7</a>",
+    "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
+  }
+]
