@@ -5,6 +5,7 @@
 I use words like "thanks" and "please" in my issues:
 
 - <a href="https://github.com/PretendoNetwork/juxtaposition-ui/issues/81">#81</a>: [Feature]: Search users/communities
+- <a href="https://github.com/trinib/word-cloud/issues/278">#278</a>: wordcloud|add|wish13yt
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
