@@ -15,15 +15,11 @@ I'm Wish. You might know me as Wish13, Wish13_YT, or wish_yt!
 <a href="my-badges/midnight-commits.md"><img src="https://my-badges.github.io/my-badges/midnight-commits.png" alt="I commit at midnight." title="I commit at midnight." width="64"></a>
 <!-- my-badges end -->
 
-I currently know:
-[![My Skills](https://skillicons.dev/icons?i=html,vscode)](https://skillicons.dev) and Batch!
-<a href="https://tag.rc24.xyz/user/1073962008413749298"><img src="https://tag.rc24.xyz/1073962008413749298/tag.png" alt="RiiTag" /></a>
+I currently know
+----------------------
+Python, HTML, and JS!
 ------------------------------------------------------------------------
-Wanna support me?
-Donate via Ko-Fi by clicking this link: https://ko-fi.com/wishcodes!
-----------------------------------------------------------------------
-Contact me on 
-- Twitter @Wish13_YT
+Contact me:
 - wishyt@proton.me (This is an email)
 - wish@escargot.chat (This requires https://www.escargot.chat)
 -------------------------------------------------------------------------
