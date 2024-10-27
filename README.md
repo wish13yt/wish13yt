@@ -1,5 +1,5 @@
 Hi!
-I'm Wish. You might know me as Wish13, Wish13_YT, or wish_yt!
+I'm Wish.
 <!-- my-badges start -->
 <h4><a href="https://github.com/my-badges/my-badges">My Badges</a></h4>
 
@@ -25,5 +25,6 @@ Contact me:
 [![Wish13yt's GitHub stats](https://github-readme-stats.vercel.app/api?username=wish13yt&theme=ambient_gradient&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wish13yt&theme=ambient_gradient&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=wish13yt&theme=ambient_gradient&hide_border=true)
+![](https://wakatime.com/share/@0e3dbfe7-5149-4160-bd85-e617f7b700c0/7f768642-4463-425b-b072-9a62969c8116.svg)
 -------------------------------------------------------------------------
 https://wishdog.link
