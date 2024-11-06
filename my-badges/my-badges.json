@@ -24,7 +24,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 433 times)\n2. index.html (used 321 times)\n3. modified: (used 210 times)\n4. readme.md (used 115 times)\n5. create (used 104 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 434 times)\n2. index.html (used 321 times)\n3. modified: (used 210 times)\n4. readme.md (used 116 times)\n5. create (used 105 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -75,5 +75,12 @@
     "desc": "I have one public key",
     "body": "",
     "image": "https://my-badges.github.io/my-badges/public-keys-1.png"
+  },
+  {
+    "id": "delorean",
+    "tier": 0,
+    "desc": "I committed on the day Doctor Emmett Brown invented the flux capacitor!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/wish13yt/wishdog.link/commit/94d39794b746247541dd1a375f2017aa5ca5a943\">94d3979</a>\n- <a href=\"https://github.com/wish13yt/wishdog.link/commit/a34e4e9410b826fcb7b17019e92f8070d022e3de\">a34e4e9</a>\n- <a href=\"https://github.com/wish13yt/wish13yt.github.io/commit/a245655184e3b790fde9df905d27f06ee86d022b\">a245655</a>\n- <a href=\"https://github.com/wish13yt/wishdog.link/commit/1849554e605c74b9640b8dbda83f136ab6234bdd\">1849554</a>",
+    "image": "https://my-badges.github.io/my-badges/delorean.png"
   }
 ]
