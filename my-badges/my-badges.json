@@ -3,14 +3,14 @@
     "id": "a-commit",
     "tier": 1,
     "desc": "One of my commit sha starts with \"a\".",
-    "body": "- <a href=\"https://github.com/wish13yt/wishdog.link/commit/a2f795a2d634ba42354288df28d8a5cf3f8d272f\"><strong>a</strong>2f795a2d634ba42354288df28d8a5cf3f8d272f</a>",
+    "body": "- <a href=\"https://github.com/wish13yt/curlbrowser/commit/a1593e8c65f0cd5cb5a8c37cddfb9b36274fbcfa\"><strong>a</strong>1593e8c65f0cd5cb5a8c37cddfb9b36274fbcfa</a>",
     "image": "https://my-badges.github.io/my-badges/a-commit.png"
   },
   {
     "id": "ab-commit",
     "tier": 2,
     "desc": "One of my commit sha starts with \"ab\".",
-    "body": "- <a href=\"https://github.com/wish13yt/wishdog.link/commit/ab96ef0f4213fac075a97b6ed250355cfe7bd649\"><strong>ab</strong>96ef0f4213fac075a97b6ed250355cfe7bd649</a>",
+    "body": "- <a href=\"https://github.com/wish13yt/wish13yt/commit/ab7fdedbb6fd19e6c17fe756dded7c09470fa72d\"><strong>ab</strong>7fdedbb6fd19e6c17fe756dded7c09470fa72d</a>",
     "image": "https://my-badges.github.io/my-badges/ab-commit.png"
   },
   {
@@ -70,17 +70,24 @@
     "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
   },
   {
-    "id": "public-keys-1",
-    "tier": 1,
-    "desc": "I have one public key",
-    "body": "",
-    "image": "https://my-badges.github.io/my-badges/public-keys-1.png"
-  },
-  {
     "id": "delorean",
     "tier": 0,
     "desc": "I committed on the day Doctor Emmett Brown invented the flux capacitor!",
     "body": "Commits:\n\n- <a href=\"https://github.com/wish13yt/wishdog.link/commit/94d39794b746247541dd1a375f2017aa5ca5a943\">94d3979</a>\n- <a href=\"https://github.com/wish13yt/wishdog.link/commit/a34e4e9410b826fcb7b17019e92f8070d022e3de\">a34e4e9</a>\n- <a href=\"https://github.com/wish13yt/wish13yt.github.io/commit/a245655184e3b790fde9df905d27f06ee86d022b\">a245655</a>\n- <a href=\"https://github.com/wish13yt/wishdog.link/commit/1849554e605c74b9640b8dbda83f136ab6234bdd\">1849554</a>",
     "image": "https://my-badges.github.io/my-badges/delorean.png"
+  },
+  {
+    "id": "self-upvote",
+    "tier": 1,
+    "desc": "I liked my own comment so much that I upvoted it.",
+    "body": "* <a href=\"https://github.com/Freakybob-Team/videos/issues/1#issuecomment-2408197831\">👍</a>",
+    "image": "https://my-badges.github.io/my-badges/self-upvote.png"
+  },
+  {
+    "id": "self-star",
+    "tier": 0,
+    "desc": "I've starred 1 my own repositories.",
+    "body": "- <a href=\"https://github.com/wish13yt/pretendobrainrotwiki\">wish13yt/pretendobrainrotwiki</a>",
+    "image": "https://my-badges.github.io/my-badges/self-star.png"
   }
 ]
