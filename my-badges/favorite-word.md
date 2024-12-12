@@ -7,7 +7,7 @@ My favorite commit message words are:
 1. update (used 449 times)
 2. index.html (used 330 times)
 3. modified: (used 243 times)
-4. create (used 126 times)
+4. create (used 127 times)
 5. readme.md (used 121 times)
 
 
