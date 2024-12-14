@@ -4,12 +4,12 @@
 
 Commits:
 
+- <a href="https://github.com/wish13yt/wish13yt.github.io/commit/8da46b35b573b675a2c4f080a54f957a834e570c">8da46b3</a>
+- <a href="https://github.com/wish13yt/wish13yt.github.io/commit/b033b0aaf8d58187d11c64da1759b30c4ea65c62">b033b0a</a>
+- <a href="https://github.com/wish13yt/wishdog.link/commit/29fccd47153ad7fa323c072c6636b9e3a7fbae09">29fccd4</a>
+- <a href="https://github.com/wish13yt/wishdog.link/commit/3336b33f0a62a51ef86a251a48769207a179121d">3336b33</a>
+- <a href="https://github.com/wish13yt/wish13yt.github.io/commit/25dec19f1e7238732741aba9b32089aadd5c64b4">25dec19</a>
 - <a href="https://github.com/wish13yt/Svelte-Testing/commit/776f3a2b1aeecb4fa5c2ffb2c9da4aa9207bff84">776f3a2</a>
-- <a href="https://github.com/wish13yt/Svelte-Testing/commit/604c49c00078245fbe1fbc80b1d2f1e3e2b1c102">604c49c</a>
-- <a href="https://github.com/wish13yt/Svelte-Testing/commit/6ccb810e48a5c189c3640ebb10054794c9f8c783">6ccb810</a>
-- <a href="https://github.com/wish13yt/Svelte-Testing/commit/fdb667b21350f6e7308ad79f48e23bd5164d07f6">fdb667b</a>
-- <a href="https://github.com/wish13yt/Svelte-Testing/commit/8199ea5aa33033000d2ed6540d0e01abb0561c8c">8199ea5</a>
-- <a href="https://github.com/wish13yt/Svelte-Testing/commit/15982a9a64e6671a104bf69bcbb8b23c3f11d404">15982a9</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
