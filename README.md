@@ -20,13 +20,11 @@ I'm Wish.
 I currently know Python, HTML, and JS!
 ------------------------------------------------------------------------
 Contact me:
-- wishyt@proton.me (This is an email)
-- wish@escargot.chat (This requires https://www.escargot.chat)
+- wishyt@proton.me
+- https://pikidiary.lol/@wish
 -------------------------------------------------------------------------
 [![Wish13yt's GitHub stats](https://github-readme-stats.vercel.app/api?username=wish13yt&theme=ambient_gradient&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wish13yt&theme=ambient_gradient&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=wish13yt&theme=ambient_gradient&hide_border=true)
 ![](https://wakatime.com/share/@0e3dbfe7-5149-4160-bd85-e617f7b700c0/7f768642-4463-425b-b072-9a62969c8116.svg)
 ![](https://wakatime.com/share/@0e3dbfe7-5149-4160-bd85-e617f7b700c0/cc68c263-b25d-4e79-9242-8c20d0a2d5ab.png)
--------------------------------------------------------------------------
-https://wishdog.link
