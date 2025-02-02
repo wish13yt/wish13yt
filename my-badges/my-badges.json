@@ -24,7 +24,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 460 times)\n2. index.html (used 325 times)\n3. modified: (used 237 times)\n4. create (used 131 times)\n5. readme.md (used 130 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 397 times)\n2. index.html (used 272 times)\n3. modified: (used 226 times)\n4. readme.md (used 126 times)\n5. create (used 110 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -59,7 +59,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/wish13yt/wish13yt/commit/faa4ce0c545d0fecbf5dd46ec87077fea2c13b98\">faa4ce0</a>\n- <a href=\"https://github.com/wish13yt/website/commit/d1dad55a29385b6568d834f84378b908c7303b83\">d1dad55</a>\n- <a href=\"https://github.com/wish13yt/website/commit/8da46b35b573b675a2c4f080a54f957a834e570c\">8da46b3</a>\n- <a href=\"https://github.com/wish13yt/website/commit/b033b0aaf8d58187d11c64da1759b30c4ea65c62\">b033b0a</a>\n- <a href=\"https://github.com/wish13yt/wishdog.link/commit/29fccd47153ad7fa323c072c6636b9e3a7fbae09\">29fccd4</a>\n- <a href=\"https://github.com/wish13yt/wishdog.link/commit/3336b33f0a62a51ef86a251a48769207a179121d\">3336b33</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/wish13yt/wish13yt/commit/faa4ce0c545d0fecbf5dd46ec87077fea2c13b98\">faa4ce0</a>\n- <a href=\"https://github.com/wish13yt/website/commit/d1dad55a29385b6568d834f84378b908c7303b83\">d1dad55</a>\n- <a href=\"https://github.com/wish13yt/website/commit/8da46b35b573b675a2c4f080a54f957a834e570c\">8da46b3</a>\n- <a href=\"https://github.com/wish13yt/website/commit/b033b0aaf8d58187d11c64da1759b30c4ea65c62\">b033b0a</a>\n- <a href=\"https://github.com/wish13yt/website/commit/25dec19f1e7238732741aba9b32089aadd5c64b4\">25dec19</a>\n- <a href=\"https://github.com/wish13yt/Svelte-Testing/commit/776f3a2b1aeecb4fa5c2ffb2c9da4aa9207bff84\">776f3a2</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -68,13 +68,6 @@
     "desc": "I commit at midnight.",
     "body": "Commits:\n\n- <a href=\"https://github.com/wish13yt/pikivice/commit/b1eb1f165909122b5ae55825b0d14aa98292c13e\">b1eb1f1</a>\n- <a href=\"https://github.com/wish13yt/pikivice/commit/3cd2d72cbfa01402b58173a01cc57d793a3db2fb\">3cd2d72</a>\n- <a href=\"https://github.com/wish13yt/cool-pikidiary/commit/32335e421aa68ec3d3b043cbd95e6b6ec228cc89\">32335e4</a>\n- <a href=\"https://github.com/wish13yt/cool-pikidiary/commit/0551711f650445dcb93327b0978ae575c0e62186\">0551711</a>\n- <a href=\"https://github.com/wish13yt/cool-pikidiary/commit/1c42757e0c00ec4bdf9dfc4393f793bbc1aaf1d5\">1c42757</a>\n- <a href=\"https://github.com/wish13yt/THEFUTURE/commit/d2123e7afe0ee5d5e6cd71b0547cface5832c2e1\">d2123e7</a>",
     "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
-  },
-  {
-    "id": "delorean",
-    "tier": 0,
-    "desc": "I committed on the day Doctor Emmett Brown invented the flux capacitor!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/wish13yt/wishdog.link/commit/94d39794b746247541dd1a375f2017aa5ca5a943\">94d3979</a>\n- <a href=\"https://github.com/wish13yt/wishdog.link/commit/a34e4e9410b826fcb7b17019e92f8070d022e3de\">a34e4e9</a>\n- <a href=\"https://github.com/wish13yt/wishdog.link/commit/1849554e605c74b9640b8dbda83f136ab6234bdd\">1849554</a>",
-    "image": "https://my-badges.github.io/my-badges/delorean.png"
   },
   {
     "id": "self-upvote",
