@@ -4,12 +4,12 @@
 
 Commits:
 
+- <a href="https://github.com/wish13yt/twemoji-for-pikidiary/commit/1a63ddb67077af45eb560baacc4a0e694c5ae81b">1a63ddb</a>
+- <a href="https://github.com/wish13yt/twemoji-for-pikidiary/commit/4f12d190d3a4a41a9b1d13f1b27ae420623612a8">4f12d19</a>
+- <a href="https://github.com/wish13yt/twemoji-for-pikidiary/commit/02a457daa05bfce06fcef40a42fe7d261608d1e1">02a457d</a>
+- <a href="https://github.com/wish13yt/twemoji-for-pikidiary/commit/3742fabb12b174e6d843745e25ab54c43393fba7">3742fab</a>
+- <a href="https://github.com/wish13yt/twemoji-for-pikidiary/commit/9dd55d7b19e88d7d3e5d9d82645671cdb582f5af">9dd55d7</a>
 - <a href="https://github.com/wish13yt/wish13yt/commit/faa4ce0c545d0fecbf5dd46ec87077fea2c13b98">faa4ce0</a>
-- <a href="https://github.com/wish13yt/website/commit/d1dad55a29385b6568d834f84378b908c7303b83">d1dad55</a>
-- <a href="https://github.com/wish13yt/website/commit/8da46b35b573b675a2c4f080a54f957a834e570c">8da46b3</a>
-- <a href="https://github.com/wish13yt/website/commit/b033b0aaf8d58187d11c64da1759b30c4ea65c62">b033b0a</a>
-- <a href="https://github.com/wish13yt/website/commit/25dec19f1e7238732741aba9b32089aadd5c64b4">25dec19</a>
-- <a href="https://github.com/wish13yt/Svelte-Testing/commit/776f3a2b1aeecb4fa5c2ffb2c9da4aa9207bff84">776f3a2</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
