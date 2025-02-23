@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/5quirre1/Freakybob.site/commit/d806797622ef4f6109977b5333cfd69b7047353e">d806797</a>: fix more grammar 🔥
-- <a href="https://github.com/5quirre1/Freakybob.site/commit/00fc57510bc70c3b6a49220f320056c5602f3e10">00fc575</a>: Fix freaky grammar
+- <a href="https://github.com/wish13yt/lightning/commit/db0eb6cd523c4f8a256a7e5d7684d679c7f4c8bc">db0eb6c</a>: fix firefox glitching out
+- <a href="https://github.com/wish13yt/lightning/commit/832d88eef0906adbbe2f721237441db4742c0c78">832d88e</a>: fix firefox glitching out
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
