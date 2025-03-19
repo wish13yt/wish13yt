@@ -3,7 +3,7 @@
     "id": "a-commit",
     "tier": 1,
     "desc": "One of my commit sha starts with \"a\".",
-    "body": "- <a href=\"https://github.com/wish13yt/curlbrowser/commit/a1593e8c65f0cd5cb5a8c37cddfb9b36274fbcfa\"><strong>a</strong>1593e8c65f0cd5cb5a8c37cddfb9b36274fbcfa</a>",
+    "body": "- <a href=\"https://github.com/wish13yt/wish13yt/commit/a546f20fa921b083dbb464215d6d403a9fd7ab2b\"><strong>a</strong>546f20fa921b083dbb464215d6d403a9fd7ab2b</a>",
     "image": "https://my-badges.github.io/my-badges/a-commit.png"
   },
   {
@@ -24,7 +24,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 396 times)\n2. index.html (used 272 times)\n3. modified: (used 226 times)\n4. readme.md (used 126 times)\n5. create (used 110 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 265 times)\n2. modified: (used 226 times)\n3. index.html (used 225 times)\n4. new (used 100 times)\n5. file: (used 100 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -33,20 +33,6 @@
     "desc": "I did 2 sequential fixes.",
     "body": "Commits:\n\n- <a href=\"https://github.com/wish13yt/lightning/commit/db0eb6cd523c4f8a256a7e5d7684d679c7f4c8bc\">db0eb6c</a>: fix firefox glitching out\n- <a href=\"https://github.com/wish13yt/lightning/commit/832d88eef0906adbbe2f721237441db4742c0c78\">832d88e</a>: fix firefox glitching out",
     "image": "https://my-badges.github.io/my-badges/fix-2.png"
-  },
-  {
-    "id": "mass-delete-commit",
-    "tier": 1,
-    "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/wish13yt/docs.beakerbrowser.com/commit/a21ebb3b8c4aa9d0510433b454fde20d9d5f7258\">a21ebb3</a>",
-    "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
-  },
-  {
-    "id": "mass-delete-commit-10k",
-    "tier": 2,
-    "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/wish13yt/docs.beakerbrowser.com/commit/a21ebb3b8c4aa9d0510433b454fde20d9d5f7258\">a21ebb3</a>",
-    "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
   },
   {
     "id": "polite-coder",
