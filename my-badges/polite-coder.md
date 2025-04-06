@@ -4,8 +4,8 @@
 
 I use words like "thanks" and "please" in my issues:
 
-- <a href="https://github.com/PretendoNetwork/juxtaposition-ui/issues/81">#81</a>: [Feature]: Search users/communities
 - <a href="https://github.com/scratchfoundation/scratch-paint/issues/2927">#2927</a>: README link (to Github Pages) is incorrect
+- <a href="https://github.com/PretendoNetwork/juxtaposition/issues/65">#65</a>: [Feature]: Search users/communities
 - <a href="https://github.com/trinib/word-cloud/issues/278">#278</a>: wordcloud|add|wish13yt
 
 
